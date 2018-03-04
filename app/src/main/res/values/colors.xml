@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/light_purple</color>
+    <color name="colorPrimaryDark">@color/v</color>
+    <color name="colorAccent">@color/pink_punk</color>
+
+    <color name="light_purple">#AD8CFF</color>
+    <color name="v">#C774E8</color>
+    <color name="pink_punk">#FF6AD5</color>
+    <color name="mogami">#d9e0fc</color>
+
+    <color name="seinfeld_red">#E30922</color>
+    <color name="agano">#efe6eb</color>
+    <color name="windows_blue">#000080</color>
+</resources>
